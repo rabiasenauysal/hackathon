@@ -1,0 +1,48 @@
+Sınıf,Ders Kodu,Grup No,Ders Adı,Mevcut,Öğretim Üyesi
+1.0,ATA002,1,Atatürk İlkeleri ve İnkılâp Tarihi II,89,Öğr. Gör. Başak KUZUCUOĞLU
+,BMH122,1,Elektrik Devreleri,161,Dr. Öğr. Üyesi Halil İbrahim COŞAR
+,BMH123,1,Bilgisayar Programlama II,84,Prof. Dr. Mehmet BAKIR
+,BMH123,2,Bilgisayar Programlama II,104,Dr. Öğr. Üyesi Çağrı ARISOY
+,KP001,1,Kariyer Planlama,95,Dr. Öğr. Üyesi Ahmet Sertol KÖKSAL
+,MMF001,1,İş Sağlığı ve Güvenliği I,109,Öğr. Gör. Esra DEMİRCİ ELMALI
+,MMF102,1,Fizik-II,93,Dr. Öğr. Üyesi Tarık AKAN
+,MMF102,2,Fizik-II,87,Prof. Dr. Ümüt TEMİZER
+,MMF104,1,Matematik-II,82,Prof. Dr. Yusuf PANDIR
+,MMF104,2,Matematik-II,81,Doç. Dr. Hüseyin KAMACI
+,TDI002,1,Türk Dili II,91,Öğr. Gör. Akın UYAR
+,YDL002,1,Yabancı Dil II (İngilizce),44,Öğr. Gör. Emel EGEMEN
+2.0,BMH240,1,Diferansiyel Denklemler,110,Doç. Dr. Volkan ASLAN
+,BMH243,1,Veri Yapıları ve Algoritmalar,121,Dr. Öğr. Üyesi Gökalp ÇINARER
+,BMH244,1,Ayrık İşlemsel Yapılar,101,Dr. Öğr. Üyesi Demet TAYLAN
+,BMH246,1,Veri Analizine Giriş,114,Dr. Öğr. Üyesi Mehmet KARABULUT
+,BMH247,1,Staj I,12,Dr. Öğr. Üyesi Çağrı ARISOY
+,BMH248,1,Olasılık ve İstatistik,88,Dr. Öğr. Üyesi Ahmet Sertol KÖKSAL
+,BMH248,2,Olasılık ve İstatistik,61,Dr. Öğr. Üyesi Ahmet Sertol KÖKSAL
+,BMH249,1,Dosya Organizasyonu,120,Dr. Öğr. Üyesi Çağrı ARISOY
+3.0,ADSL04,1,Alan Dışı Seçmeli Ders,-,-
+,BMH361,1,Bilgisayar Ağları,119,Prof. Dr. Mehmet BAKIR
+,BMH364,1,Algoritma Analizi ve Tasarımı,65,Dr. Öğr. Üyesi Gökalp ÇINARER
+,BMH367,1,Yapay Zeka,102,Dr. Öğr. Üyesi Hasan ULUTAŞ
+,BMH521,1,Veri İletişimi,64,Prof. Dr. Mehmet BAKIR
+,BMH522,1,Gömülü Sistemler,100,Dr. Öğr. Üyesi Mehmet KARABULUT
+,BMH523,1,İşletim Sistemleri Kavramları,29,Dr. Öğr. Üyesi Çağrı ARISOY
+,BMH594,1,Temel İş İngilizcesi,58,Doç. Dr. Muhammet Emin ŞAHİN
+4.0,BMH473,1,Staj II,9,Dr. Öğr. Üyesi Çağrı ARISOY
+,BMH474,1,Bilgisayar Mühendisliği Tasarımı,6,Dr. Öğr. Üyesi Mehmet KARABULUT
+,BMH474,2,Bilgisayar Mühendisliği Tasarımı,10,Dr. Öğr. Üyesi Hasan ULUTAŞ
+,BMH481,1,Bitirme Projesi,14,Dr. Öğr. Üyesi Ahmet Sertol KÖKSAL
+,BMH481,2,Bitirme Projesi,0,
+,BMH481,3,Bitirme Projesi,11,Dr. Öğr. Üyesi Hasan ULUTAŞ
+,BMH481,4,Bitirme Projesi,8,Prof. Dr. Mehmet BAKIR
+,BMH481,5,Bitirme Projesi,10,Dr. Öğr. Üyesi Mehmet KARABULUT
+,BMH481,6,Bitirme Projesi,5,Dr. Öğr. Üyesi Gökalp ÇINARER
+,BMH481,7,Bitirme Projesi,12,Dr. Öğr. Üyesi Çağrı ARISOY
+,BMH481,8,Bitirme Projesi,2,Doç. Dr. Muhammet Emin ŞAHİN
+,MMF002,1,İş Sağlığı ve Güvenliği II,81,Öğr. Gör. Esra DEMİRCİ ELMALI
+,BMH705,1,Biyomedikal Mühendisliğin Temelleri,34,Doç. Dr. Muhammet Emin ŞAHİN
+,BMH708,1,Veri Madenciliğine Giriş,37,Öğr. Gör. Kazım KILIÇ
+,BMH713,1,Veri Tabanı Programlama,18,Dr. Öğr. Üyesi Hasan ULUTAŞ
+,BMH715,1,Bilgi Güvenliği,43,Dr. Öğr. Üyesi Ahmet Sertol KÖKSAL
+,BMH722,1,Mikrokontrolcü Uygulamaları,37,Dr. Öğr. Üyesi Mehmet KARABULUT
+,BMH732,1,Genetik Algoritmalar ve Programlama,26,Dr. Öğr. Üyesi Gökalp ÇINARER
+,BMH739,1,Kalite Kontrol,34,Dr. Öğr. Üyesi Hasan ULUTAŞ
